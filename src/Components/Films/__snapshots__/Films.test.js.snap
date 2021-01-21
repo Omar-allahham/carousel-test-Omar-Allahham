@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Films Component match the snapshots 1`] = `
+<div
+  className="carousel-0-2-1"
+>
+  <div
+    className="navButton-0-2-2"
+    onClick={[Function]}
+  >
+    <i
+      className="arrowLeft-0-2-3"
+    />
+  </div>
+  <div
+    className="ldsRipple-0-2-10"
+  >
+    <div />
+    <div />
+  </div>
+  <div
+    className="navButton-0-2-2"
+    onClick={[Function]}
+  >
+    <i
+      className="arrowRight-0-2-4"
+    />
+  </div>
+</div>
+`;
